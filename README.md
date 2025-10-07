@@ -1,0 +1,1 @@
+this is a Python calc to know the average general qualifications to the national tests from de Dominican Republic. you have to have/know the average grades of each basic subject of each year 4,5 and 6 (in United States it's 10,11 and 12) and the older order (the order used before 2017) it would be 2,3 and 4 and then add it where it ask you.
